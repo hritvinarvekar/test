@@ -38,7 +38,7 @@
 <ul>
   <li>Convert speech to text </li> <br>
   <li>Use Gemini AI to perform coding related tasks</li> <br>
-  <li>Generate and execute the appropriate terminal command</li> <br>
+  <li>Generate and execute the appropriate terminal command</li> 
 </ul> 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 <h4 id="built-with"> 🛠️ Built With: </h4> <hr>
@@ -46,7 +46,7 @@
   <li>Python</li> <br>
   <li>Google Generative AI (Gemini)</li><br>
   <li>SpeechRecognition</li> <br>
-  <li>Python-dotenv</li><br>
+  <li>Python-dotenv</li>
 </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 <!-- GETTING STARTED -->
@@ -57,12 +57,11 @@ To run Kuro locally.
 <ul>
   <li>Python 3.8+</li> <br>
   <li>Microphone</li><br>
-  <li>Google Gemini API Key</li> <br>
+  <li>Google Gemini API Key</li>
 </ul> 
 <h4>🔧 Installation: </h4>
-<br>
 1. Clone the repo
-<br><br>
+<br> <br>
 git clone https://github.com/Sukumarsawant/Kuro-CLI-.git  
 cd Kuro-CLI-
 <br>
@@ -76,7 +75,6 @@ GEMINI_API_KEY=your_api_key_here
 3. Run the assistant:
 <br><br>
 python main.py
-<br><br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 <!-- USAGE --> 
 <h4 id="usage">🎤  Usage: </h4>  <hr> 
@@ -89,13 +87,12 @@ Once it starts running, speak commands like:
 "- Open Chrome & search for Python" 
 <br><br>
 To stop Kuro, say:
-<br><br>
+<br><br> 
 "- exit"
 <br><br>
 "- quit"
 <br><br>
 "-  stop"
-<br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 <!-- CONTRIBUTING -->
 <h4 id="contributing"> 💻 Contributing: </h4> <hr> 
@@ -110,7 +107,6 @@ Contributions are welcome! Fork the repo and submit a PR.
 4. Push to the branch (git push origin feature/YourFeature)
 <br><br>
 5. Open a Pull Request
-<br><br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 <!-- ACKNOWLEDGMENTS -->
 <h4 id="acknowledgments">🤖  Acknowledgments: </h4> <hr> 
@@ -118,6 +114,5 @@ Contributions are welcome! Fork the repo and submit a PR.
   <li>SpeechRecognition Docs </li> <br>
   <li>Google Gemini AI</li> <br>
   <li>Best README Template</li> <br>
-  <li>Python-dotenv</li> <br>
+  <li>Python-dotenv</li> 
 </ul> 
-<hr>
