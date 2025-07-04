@@ -3,7 +3,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="kuro.jpeg" alt="Kuro CLI Banner" width="80%" />
+    <img src="kuro.jpeg" alt="Kuro CLI Banner" width="100%" />
   </p>
 
   <h3 align="center">Kuro-CLI 🎙️ : Voice-Controlled Terminal Assistant</h3>
